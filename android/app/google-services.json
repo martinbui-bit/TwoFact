@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "20206731599",
+    "project_id": "twofactorapp-de429",
+    "storage_bucket": "twofactorapp-de429.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20206731599:android:ca049b4596129e2bd6c53a",
+        "android_client_info": {
+          "package_name": "com.example.twofact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20206731599-1601ifl7l5obbuhi5rtjcv3co8j9teno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN2svyWuKvgKyyjWjspnE6w8MyTbucboQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20206731599-1601ifl7l5obbuhi5rtjcv3co8j9teno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
